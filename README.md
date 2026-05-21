@@ -16,7 +16,10 @@ Welcome! This repository is my daily log as I transition from frontend developme
 
 | Day | Topic | Key Focus | Link |
 
+# Python
 | Day 01 | Introduction | Learned about Python + `print()` and what is it used for | [View Notes](./day-01-python-intro/log.md) |
 
+# Networking
+| Day 02 | OSI Model | Understanding the OSI Model | [View Notes](./day-02-networking-osi/log.md) |
 
 ---
