@@ -1,25 +1,14 @@
-# 🚀 Cloud DevOps Learning Journey
+# 🚀 Python, Automation & Data Learning Journey
 
-Welcome! This repository is my daily log as I transition from frontend development into backend systems, automation, and infrastructure engineering. My goal is to build a rock-solid foundation in modern DevOps tools and practices.
+Welcome! This repository is my learning log focused on building practical skills in Python, automation, and data handling. I’m currently improving my ability to work with data, write scripts, and understand how systems can be automated and made more efficient.
 
----
-
-## 🛠️ The Tech Stack
-*   **Systems & Scripting:** Linux (Bash), Python, Golang
-*   **Infrastructure & Cloud:** Docker, Kubernetes, Terraform, AWS/GCP
-*   **CI/CD & Automation:** GitHub Actions
+My goal is to build strong foundations in programming and data analysis through hands-on practice and real small projects.
 
 ---
 
-## 📅 Daily Progress Tracker
-*(I will be updating this table every single day as I progress!)*
-
-| Day | Topic | Key Focus | Link |
-
-# Python
-| Day 01 | Introduction | Learned about Python + `print()` and what is it used for | [View Notes](./day-01-python-intro/log.md) |
-
-# Networking
-| Day 02 | OSI Model | Understanding the OSI Model | [View Notes](./day-02-networking-osi/log.md) |
-
+## 🛠️ Focus Areas
+Programming: Python (core logic, scripting, problem solving)
+Data Work: Data handling, CSV/JSON processing, basic SQL
+Automation: Simple scripts for repetitive tasks and workflow improvement
+Tools: Linux, Git, basic command-line usage
 ---
